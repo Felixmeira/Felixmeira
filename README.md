@@ -1,4 +1,4 @@
-## Hi there 👋
+
 # Olá, eu sou o Felix Meira! 👋
 
 Sou um Programador com foco em desenvolvimento backend e arquitetura de sistemas distribuídos. Tenho paixão por criar soluções escaláveis e eficientes, sempre buscando aprender e me adaptar às novas tecnologias. 

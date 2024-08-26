@@ -16,9 +16,16 @@ Atualmente, estou trabalhando em projetos voltados para o tráfego e a gestão d
   ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge)  
   ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge)
 
-- **Ferramentas:** Docker, Kubernetes, Git, CI/CD (Github Actions, Jenkins)
+- **Ferramentas:**  
+  ![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)  
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)  
+  ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)  
+  ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=white&style=for-the-badge)
+
 - **Cloud & DevOps:** AWS, Azure, Google Cloud
-- **Bancos de Dados:** PostgreSQL, MongoDB, Redis
+- **Bancos de Dados:**  
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)  
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
 
 ## 🚀 Projetos em Destaque
 

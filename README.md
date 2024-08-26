@@ -1,7 +1,7 @@
 ## Hi there 👋
 # Olá, eu sou o Felix Meira! 👋
 
-Sou um Engenheiro de Software com foco em desenvolvimento backend e arquitetura de sistemas distribuídos. Tenho paixão por criar soluções escaláveis e eficientes, sempre buscando aprender e me adaptar às novas tecnologias. 
+Sou um Programador com foco em desenvolvimento backend e arquitetura de sistemas distribuídos. Tenho paixão por criar soluções escaláveis e eficientes, sempre buscando aprender e me adaptar às novas tecnologias. 
 
 Atualmente, estou trabalhando em projetos voltados para o tráfego e a gestão de informações de trânsito, além de contribuir com a comunidade open-source.
 
@@ -10,15 +10,14 @@ Atualmente, estou trabalhando em projetos voltados para o tráfego e a gestão d
 
 ## 🛠️ Habilidades Técnicas
 
-- **Linguagens:** Python, JavaScript, Go, C#
-- **Ferramentas:** Docker, Kubernetes, Git, CI/CD (Github Actions, Jenkins)
-- **Cloud & DevOps:** AWS, Azure, Google Cloud
-- **Bancos de Dados:** PostgreSQL, MongoDB, Redis
+- **Linguagens:** JavaScript, CSS, C#, HTML, JAVA
+- **Ferramentas:** Docker, Kubernetes, Git, (Github Actions)
+- **Bancos de Dados:** PostgreSQL, MongoDB
 
 ## 🚀 Projetos em Destaque
 
-- [Sistema de Trânsito da Paraíba (DETRAN)](https://transito-pb.netlify.app/)  
-  Um sistema que facilita o acesso a informações de trânsito na Paraíba. Ele oferece uma interface amigável para que usuários possam consultar dados atualizados e relevantes sobre o trânsito.
+- [Sistema de Trânsito de Pato Branco (DETRAN)](https://transito-pb.netlify.app/)  
+  Um sistema que facilita o acesso a informações de trânsito em Pato Branco. Ele oferece uma interface amigável para que usuários possam consultar dados atualizados e relevantes sobre o trânsito.
 
 ## 💬 Conecte-se Comigo
 
